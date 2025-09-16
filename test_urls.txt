@@ -1,0 +1,7 @@
+﻿http://phish.com/login
+https://myntra.com/deals
+http://192.168.1.1/admin
+http://legit.example.com//weird
+no-protocol-example.com/path
+https://safe-site.org
+http://badsite.test/malware
